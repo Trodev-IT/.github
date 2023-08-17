@@ -6,7 +6,7 @@ Today's world is moving with the touch of modernity, and different technologies 
 </p>
 <br><br>
 
-### This Languages and Tools we used to developing sector:
+### These are the languages and Tools we used to develop the sector:
 <p align="center" style="background-color:yellow; padding-top:5px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="android" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40" />
@@ -20,3 +20,9 @@ Today's world is moving with the touch of modernity, and different technologies 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
 </p>
 <br><br><br>
+
+
+|Daily Ayah| Converti'x|
+|:----:|:----:|
+|<img src="https://github.com/zobayerdev/Daily_Ayah/assets/74914169/80dff939-68e9-4c1c-b9ae-e0f0b9ca30fa" width=40% height=40% >| <img src="https://github.com/Trodev-IT/.github/assets/74914169/ba107a0b-1bc6-41d8-8d1e-1875f2ae3d54" width=40% height=40% >|
+| <p>Daily Ayah - An Islamic Application for Spiritual Guidance and Knowledge <br> [![forthebadge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6580660399707616800)</p> | <p> This application provides of QR create, Bar code create, PDF maker & scanner also. you can create these all services. Every user has use these features.<br> [![forthebadge](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6580660399707616800)</p> |
