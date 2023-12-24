@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### Trodev. It's an IT sector. 🏢🏢
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="380" src="https://github.com/zobayerdev/zobayerdev/assets/74914169/4359fcf3-bd15-4ae8-a349-589c0b59e4c6">
 <p>
 Today's world is moving with the touch of modernity, and different technologies have touched that touch. With this technology, the whole world seems to be in the palm of your hand. At present, people and rhythms are mixing in this modern world. Just as a person is modern and sees everything around him, so a person is using his latest technology to carry on his activities. In the same way, we have this organization to help people use technology in the right way. Through our organization, we provide various necessary apps, software, and websites. So that a person can run the activities of his life in a beautiful way. Our company gives you apps, software, and websites for your business.
 </p>
